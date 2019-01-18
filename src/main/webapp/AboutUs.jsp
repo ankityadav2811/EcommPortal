@@ -15,7 +15,16 @@
     <body>
         <c:import url="/header.jsp"></c:import>
         <div class="container">
-            <h4>Company Info</h4>            
+            <h4>Shop Now Info</h4>
+            <p>Shop Now Outlet Pvt Ltd. is an Indian shoping company based in New Delhi, Indian.
+            Created by Ankit Yadav in 2018, , the company initially focused on shoping iteams  Sales before expanding
+            into other product categories such as consumer Clothing
+            Fashion , and Lifestyle products.
+            <br><br><br>
+            Contact: +919821411325<br><br>
+            Customer Service : 1800 422 1541<br><br>
+            Email Us : ak.ankit2811@gmail.com
+            </p>
         </div>
         
     </body>
